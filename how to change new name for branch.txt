@@ -1,0 +1,3 @@
+git branch -M <name of branch>
+
+example: git branch -M main
